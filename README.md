@@ -2,7 +2,7 @@
 Australia’s Leading Messaging Solutions for Business and Enterprise.
 
 - API version: 1.0.0
-- Build date: 2016-08-02T23:12:53.689Z
+- Build date: 2016-08-02T23:13:43.415Z
 
 ## Requirements
 
