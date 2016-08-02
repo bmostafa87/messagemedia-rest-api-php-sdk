@@ -1,8 +1,8 @@
-# messagemedia-rest-api-php-sdk
+# .
 Australia’s Leading Messaging Solutions for Business and Enterprise.
 
 - API version: 1.0.0
-- Build date: 2016-08-02T23:40:45.703Z
+- Build date: 2016-08-02T23:48:03.747Z
 
 ## Requirements
 
@@ -34,7 +34,7 @@ Then run `composer install`
 Download the files and include `autoload.php`:
 
 ```php
-    require_once('/path/to/messagemedia-rest-api-php-sdk/autoload.php');
+    require_once('/path/to/./autoload.php');
 ```
 
 ## Tests
